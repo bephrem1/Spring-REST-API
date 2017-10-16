@@ -2,7 +2,7 @@
 Simple Spring REST API Example with Authentication and Authorization </br>
 
 Code & Instructor: Craig Dennis </br>
-Workshop Taken: 10/16/17 </br>
+Workshop Taken: 10/14/17 - 10/16/17 </br>
 
 What I Learned: </br>
 -Creating, Relating, and Simplifying Entitiy classes (using a abstract BaseEntity) </br>
