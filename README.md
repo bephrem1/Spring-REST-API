@@ -11,6 +11,6 @@ What I Learned: </br>
 -Using Postman and HAL Browser to analyze and test API </br>
 -Versioning </br>
 -Validation </br>
--Authorization </br>
+-Authorization (Using Spring Expression Language in Repository Interfaces) </br>
 -Authentication </br>
 -Events </br>
